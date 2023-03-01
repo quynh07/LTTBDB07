@@ -1,7 +1,7 @@
 import 'dart:io';
 void cau1(){
   File file = File('hello.txt');
-  file.writeAsStringSync('Tran Viet Anh');
+  file.writeAsStringSync('BuiThiQuynh');
 }
 void cau2(){
   File file = File('hello.txt');
